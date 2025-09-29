@@ -33,7 +33,7 @@ flutter run -d chrome
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
-  <img src="screenshots/ss_12x9.png" alt="Örnek Görüntü" width="360" />
+  <img src="screenshots/ss_12x9.png" alt="Örnek Görüntü" width="240" />
   <br/>
   <em>Örnek Görüntü</em>
   
