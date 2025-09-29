@@ -32,7 +32,12 @@ flutter run -d chrome
 
 ## 📸 Ekran Görüntüleri
 
-![Örnek Görüntü](screenshots/ss_12x9.png)
+<p align="center">
+  <img src="screenshots/ss_12x9.png" alt="Örnek Görüntü" width="360" />
+  <br/>
+  <em>Örnek Görüntü</em>
+  
+</p>
 
 Not: Görselleri `screenshots/` klasörüne ekleyin. İsimleri dilediğiniz gibi düzenleyebilirsiniz.
 
