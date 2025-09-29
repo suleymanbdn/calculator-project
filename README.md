@@ -39,8 +39,6 @@ flutter run -d chrome
   
 </p>
 
-Not: Görselleri `screenshots/` klasörüne ekleyin. İsimleri dilediğiniz gibi düzenleyebilirsiniz.
-
 ## 🗂️ Proje Yapısı
 
 ```
@@ -48,37 +46,3 @@ lib/
   main.dart               # Giriş noktası
   calculator_screen.dart  # Hesap makinesi arayüzü ve mantığı
 ```
-
-## 🔧 Komutlar (Geliştirici)
-
-```bash
-# Format ve analiz
-flutter format .
-flutter analyze
-
-# Testler
-flutter test
-
-# Release APK (Android)
-flutter build apk --release
-```
-
-## 🗺️ Yol Haritası
-
-- [ ] Bilimsel mod (sin, cos, tan, log)
-- [ ] Yerel depolama ile işlem geçmişi
-- [ ] Çoklu dil desteği (tr/en)
-
-## 🤝 Katkı
-
-Katkılar memnuniyetle karşılanır. Lütfen PR açmadan önce kısa bir issue oluşturun ve değişikliklerinizi küçük, odaklı PR’lar halinde gönderin.
-
-## 📄 Lisans
-
-Bu proje eğitim amaçlıdır. İhtiyaç halinde bir açık kaynak lisansı eklenebilir (MIT önerilir).
-
-## 📚 Faydalı Bağlantılar
-
-- Flutter Başlangıç: https://docs.flutter.dev/get-started/codelab
-- Flutter Cookbook: https://docs.flutter.dev/cookbook
-- Flutter Belgeleri: https://docs.flutter.dev/
