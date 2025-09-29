@@ -32,9 +32,7 @@ flutter run -d chrome
 
 ## 📸 Ekran Görüntüleri
 
-| Ana Ekran | İşlem Örneği | 12×9 İşlemi |
-| --- | --- | --- |
-| ![Ana Ekran](screenshots/screen1.png) | ![İşlem Örneği](screenshots/screen2.png) | ![12x9](screenshots/ss_12x9.png) |
+![Örnek Görüntü](screenshots/ss_12x9.png)
 
 Not: Görselleri `screenshots/` klasörüne ekleyin. İsimleri dilediğiniz gibi düzenleyebilirsiniz.
 
